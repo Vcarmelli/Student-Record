@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1655191257 source:d:\vashti\onedrive - technological university of the philippines\.cc142_cp2\machine problem 1.7 - linked list in c++\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<windows.h>
+
+1655191589 source:d:\vashti\onedrive - technological university of the philippines\.cc142_cp2\machine problem 3.2 - linked list in c++\camu_linklist.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<windows.h>
+
